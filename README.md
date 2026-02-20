@@ -1,3 +1,8 @@
+
+
+
+
+
 <h1 align="center">Hi 👋 I'm Ben</h1>
 <h3 align="center">Full-Stack Developer • Infrastructure Enthusiast • Builder</h3>
 <h3 align="center">
@@ -113,10 +118,7 @@
 
 <h3 align="center">📫 info@pingmyserver.com</h3>
 
-<hr>
-
-<h2 align="center">📈 Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Der0Benson&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFheWRnMjhoNTBlOWtyZjg3ZDAwZ2NraTl2bzk1dDR4NzhieDdodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4JyOBy881wwYH18A/giphy.gif"/>
 </p>
