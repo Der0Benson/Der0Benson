@@ -6,11 +6,6 @@
   I build scalable backend systems, automation tools and reliable infrastructure.
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Der0Benson&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
-  </a>
-</p>
 
 ---
 
@@ -26,16 +21,7 @@
   Trading infrastructure & backend systems
 </p>
 
----
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Der0Benson&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Der0Benson&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 <h2 align="center">🛠 Tech Stack</h2>
 
