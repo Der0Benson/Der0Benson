@@ -37,7 +37,7 @@
 <h2 align="center">📊 Development Overview</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Der0Benson&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Der0Benson&theme=highcontrast&animation=load" alt="Profile Details"/>
 </p>
 
 <p align="center">
