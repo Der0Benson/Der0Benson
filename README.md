@@ -41,8 +41,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Der0Benson&theme=tokyonight" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Der0Benson&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Der0Benson&theme=highcontrast&animation=load" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Der0Benson&theme=highcontrast&animation=load" height="170"/>
 </p>
 
 <hr>
